@@ -1,13 +1,13 @@
-👋 Hi, I'm Shahzada Muhammad Ahmed
+👋 Hi, I'm Saad Ahmed
 🚀 Full Stack MERN Developer | React.js | Next.js | Node.js | React Native
-Full Stack MERN Developer with 5+ years of professional experience building scalable web and mobile applications.
+Full Stack MERN Developer with 3+ years of professional experience building scalable web and mobile applications.
 
 I specialize in developing modern applications using React.js, Next.js, Node.js, Express.js, MongoDB, React Native, and TypeScript.
 
 I also have hands-on experience with REST APIs, System Design, MVC Architecture, Event-Driven Architecture, and AI-assisted software development.
 
 👨‍💻 About Me
-💼 5+ years of professional software development experience
+💼 3+ years of professional software development experience
 🚀 Specialized in Full Stack MERN Development
 🌐 Building scalable Web Applications
 📱 Building cross-platform Mobile Applications with React Native
@@ -54,13 +54,13 @@ AI-powered Development Workflows
 ⚡ Scalable and Event-Driven Applications
 🤖 AI-assisted Software Solutions
 📊 GitHub Stats
-Shahzada's GitHub Stats
+Saad's GitHub Stats
 
 Top Languages
 
-🤝 Let's Connect
-🌐 WEBSITE    🐙 GITHUB    💼 LINKEDIN    📘 FACEBOOK
+🤝 Let's Connect On
+🌐 WEBSITE:saadahmed.surge.sh
 
-📧 Email: shahzada.ahmed1996@gmail.com
+📧 Email: entresaadahmed@gmail.com
 
 💡 "Building scalable software, solving real-world problems, and continuously learning."
